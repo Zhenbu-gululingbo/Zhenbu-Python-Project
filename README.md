@@ -7,3 +7,4 @@
 ## 项目简介
 
 欢迎来到 Zbzb project 仓库，这里是我学习 GitHub 的起点。
+在ellye的帮助下，我要开始学习GitHub了！
